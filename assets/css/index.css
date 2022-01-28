@@ -1,0 +1,40 @@
+
+.header {
+ /*   background-image: url('https://kfg6bckb.media.zestyio.com/zesty-product-shot-right-side.jpg'); */
+}
+
+.carousel-caption {
+    top:60%;
+    background-color:goldenrod;
+    height: 150px;
+    border: 2px solid gold;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.card_heads {
+    background-color: gold;
+    padding:5px;
+    height: 35px;
+}
+
+.card {
+    margin:5px;
+}
+
+/***  about us ***/
+
+.about_top_bg {
+    background-image: url('/assets/img/about_us_bg.jpg');
+}
+
+#aboutUs_content {
+    border:2px solid goldenrod;
+    margin: 5%;
+    width: 70%;
+}
+.card-body img{
+    width: 45%;
+}
+
+/***  about us ***/
